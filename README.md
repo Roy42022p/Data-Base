@@ -12,3 +12,6 @@ https://docs.google.com/document/d/1e4BY1BiE8HInwIyY-hUt6Qh7wJQAVrcFR6wkEeG5lJw/
 Лекция 20.09.2022 + ответы на вопросы https://docs.google.com/document/d/1Lcu8g_tg814vEM3RmMvEK1GMsayR5tpHT13YJrEEf4k/edit?usp=drivesdk
 
 Ответы на вопросы до лекции 20.09.2022 https://docs.google.com/document/d/1-3RjTAnsxbLdhDkeDP-EQYpB5ik4iECw-JgeHJ1i4GQ/edit?usp=drivesdk
+
+23.09.2022 ER диаграммы Хузуржанов, Кочунов
+https://docs.google.com/document/d/1VI1au3V2EX-zroKDXPJho6VhG30geKsRcFaWohjsnIw/edit?usp=drivesdk
