@@ -15,3 +15,5 @@ https://docs.google.com/document/d/1e4BY1BiE8HInwIyY-hUt6Qh7wJQAVrcFR6wkEeG5lJw/
 
 23.09.2022 ER диаграммы Хузуржанов, Кочунов
 https://docs.google.com/document/d/1VI1au3V2EX-zroKDXPJho6VhG30geKsRcFaWohjsnIw/edit?usp=drivesdk
+
+https://docs.google.com/document/d/1rmcicRLHA7iHm7ckM-T55d5asgrHb36WXWsqWzBpAqc/edit?usp=sharing
